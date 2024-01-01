@@ -1,0 +1,4 @@
+@use 'base'; //use lo va compilar el archivo principal se usa unicamente donde deseas importarlo
+// @import 'contenido/contenido'; se usa en la app.scss una ves que se importa en el app.scss, lo hace disponible en todos los archivos
+
+@use 'layout';

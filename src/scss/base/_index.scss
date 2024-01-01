@@ -1,0 +1,7 @@
+@forward 'normalize';
+@forward 'mixins';
+@forward 'variables'; //solo busca e indica donde se encuentran los archivos
+@forward 'globales';
+
+
+//forward solo va en el archivo index
